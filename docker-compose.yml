@@ -1,0 +1,9 @@
+version: '2'
+services:
+  mongo-local:
+    image: mongo:4.0
+    container_name: mongo-local
+    ports:
+      - "27017:27017"
+    volumes:
+      - /private/var/tmp/data:/data/db

@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Simple express api built with express, graphql, and mongodb.",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony-tvu/simple-apollo-graphql.git"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "graphql",
+    "node"
+  ],
+  "author": "Tony Vu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tony-tvu/simple-apollo-graphql/issues"
+  },
+  "homepage": "https://github.com/tony-tvu/simple-apollo-graphql#readme"
+}
