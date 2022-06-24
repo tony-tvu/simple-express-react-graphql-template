@@ -99,3 +99,16 @@ mutation updateQuery {
   }
 }
 ```
+
+## Steps to Start React App
+From terminal, cd into ``` /client ``` directory.
+
+Install dependencies
+```
+npm install
+```
+
+Start app
+```
+npm start
+```
