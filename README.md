@@ -5,7 +5,7 @@ This is a simple full stack application built with Express, Apollo Graphql, Mong
 ## Steps to Start Express Server
 From terminal, cd into ``` /api ``` directory.
 
-Verify that you have Docker running locally and then compose a local MongoDB container with:
+Start MongoDB container:
 ```
 docker-compose up
 ```
@@ -24,7 +24,7 @@ Start server
 npm start
 ```
 
-If the server has started successfully, you should be able to navigate to http://localhost:8080 and see this message:
+If the server has started successfully, you should be able to navigate to http://localhost:8080 and see this:
 
 ``` {"message":"Simple API built with Express, Apollo GraphQL, and MongoDB."} ```
 
